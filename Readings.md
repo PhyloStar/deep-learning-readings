@@ -7,3 +7,4 @@
 * http://blog.shakirm.com/2015/03/a-statistical-view-of-deep-learning-ii-auto-encoders-and-free-energy/
 * Generating sequences from variational autoencoder: https://arxiv.org/pdf/1511.06349.pdf
 * Neural Variational Inference for Text Processing: https://arxiv.org/pdf/1511.06038.pdf
+* Tutorial on variational autoencoder: https://arxiv.org/abs/1606.05908
