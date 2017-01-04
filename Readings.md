@@ -10,4 +10,4 @@
 * Tutorial on variational autoencoder: https://arxiv.org/abs/1606.05908
 
 # Generative Adversial Network
-* Tutorial on Generative Adversial Networks: https://arxiv.org/abs/1701.00160
+* Tutorial on Generative Adversial Networks: https://arxiv.org/abs/1701.00160 by Ian Goodfellow
