@@ -10,5 +10,5 @@
 * Tutorial on variational autoencoder: https://arxiv.org/abs/1606.05908
 * Variational recurrent autoencoder by Fabius: https://arxiv.org/pdf/1412.6581.pdf
 
-# Generative Adversial Network
+# Generative Adversarial Network
 * Tutorial on Generative Adversial Networks: https://arxiv.org/abs/1701.00160 by Ian Goodfellow
