@@ -5,9 +5,10 @@
 * http://dustintran.com/blog/variational-auto-encoders-do-not-train-complex-generative-models
 * http://blog.evjang.com/2016/11/tutorial-categorical-variational.html
 * http://blog.shakirm.com/2015/03/a-statistical-view-of-deep-learning-ii-auto-encoders-and-free-energy/
-* Generating sequences from variational autoencoder: https://arxiv.org/pdf/1511.06349.pdf
+* Generating sequences from variational autoencoder by Bowman et al.: https://arxiv.org/pdf/1511.06349.pdf
 * Neural Variational Inference for Text Processing: https://arxiv.org/pdf/1511.06038.pdf
 * Tutorial on variational autoencoder: https://arxiv.org/abs/1606.05908
+* Variational recurrent autoencoder by Fabius: https://arxiv.org/pdf/1412.6581.pdf
 
 # Generative Adversial Network
 * Tutorial on Generative Adversial Networks: https://arxiv.org/abs/1701.00160 by Ian Goodfellow
