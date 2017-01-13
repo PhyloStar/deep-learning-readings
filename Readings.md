@@ -1,4 +1,7 @@
 ## deep-learning-readings
+# Lecture series
+https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+
 # Variational Autoencoder
 * Very cool introduction to variational autoencoders: https://jaan.io/what-is-variational-autoencoder-vae/
 * http://www.inference.vc/probabilistic-models-and-autoencoders-my-new-favourite-papers/
