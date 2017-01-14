@@ -21,3 +21,6 @@ https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNm
 * Extracting Speaker-Specific Information with a Regularized Siamese Deep Network https://papers.nips.cc/paper/4314-extracting-speaker-specific-information-with-a-regularized-siamese-deep-network.pdf
 * Gated Autoencoders with Tied Input Weights http://www.jmlr.org/proceedings/papers/v28/alain13.pdf
 * Generalized Autoencoder: A Neural Network Framework for Dimensionality Reduction https://pdfs.semanticscholar.org/614a/12f556c3186d375ace550ee3ef02e0ec2c9a.pdf
+
+# Adversial autoencoders
+* Makhzani et al. 2016: https://arxiv.org/abs/1511.05644
