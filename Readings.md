@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNm
 
 # Generative Adversarial Network
 * Tutorial on Generative Adversial Networks: https://arxiv.org/abs/1701.00160 by Ian Goodfellow
-
+* Why GANs do not work for text? https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/
 # Siamese autoencoders
 * Extracting Speaker-Specific Information with a Regularized Siamese Deep Network https://papers.nips.cc/paper/4314-extracting-speaker-specific-information-with-a-regularized-siamese-deep-network.pdf
 * Gated Autoencoders with Tied Input Weights http://www.jmlr.org/proceedings/papers/v28/alain13.pdf
