@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNm
 
 # Adversial autoencoders
 * Makhzani et al. 2016: https://arxiv.org/abs/1511.05644
+
+# On relation to backpropagation
+* https://www.youtube.com/watch?v=VIRCybGgHts
