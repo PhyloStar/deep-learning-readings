@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNm
 * Gated Autoencoders with Tied Input Weights http://www.jmlr.org/proceedings/papers/v28/alain13.pdf
 * Generalized Autoencoder: A Neural Network Framework for Dimensionality Reduction https://pdfs.semanticscholar.org/614a/12f556c3186d375ace550ee3ef02e0ec2c9a.pdf
 
+# Noisy autoencoders
+* Learning Text Pair Similarity with Context-sensitive Autoencoders: http://www.umiacs.umd.edu/~hadi/papers/amiri-acl-16.pdf
+
 # Adversial autoencoders
 * Makhzani et al. 2016: https://arxiv.org/abs/1511.05644
 
