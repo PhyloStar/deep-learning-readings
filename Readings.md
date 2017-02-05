@@ -20,6 +20,11 @@ https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNm
 # Siamese autoencoders
 * Extracting Speaker-Specific Information with a Regularized Siamese Deep Network https://papers.nips.cc/paper/4314-extracting-speaker-specific-information-with-a-regularized-siamese-deep-network.pdf
 * Gated Autoencoders with Tied Input Weights http://www.jmlr.org/proceedings/papers/v28/alain13.pdf
+
+# Neural Machine Translation
+* http://homepages.inf.ed.ac.uk/rsennric/amta2016-tutorial.pdf
+* https://ufal.mff.cuni.cz/mtm16/files/11-neural-machine-translation-rico-sennrich.pdf
+* Graham Neubig http://www.cs.cmu.edu/~tbergkir/11711fa16/neubig16afnlp.pdf
 * Generalized Autoencoder: A Neural Network Framework for Dimensionality Reduction https://pdfs.semanticscholar.org/614a/12f556c3186d375ace550ee3ef02e0ec2c9a.pdf
 
 # Adversial autoencoders
